@@ -1,0 +1,174 @@
+#corp{
+	background-image:url(../img/BB.jpg);
+	background-repeat: no-repeat;
+}
+#titre{
+	color: MediumSeaGreen;
+	text-align: center;
+}
+#myimg{
+	font-size: 25px;
+	border-radius: 60%;
+	width: 150px;
+	height:200px;
+	float: right;
+	animation:rotateOut;
+}
+#phone{
+	border-radius: 50%;
+	width: 150px;
+	height:200px;
+}
+
+#img{
+	text-align: center;
+}
+
+#text{
+color:Orange; 
+animation-name: bounceOut;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+}
+#phon{
+	border-radius: 60%;
+}
+
+.mdr{
+	border:2px solid blueviolet;
+	width: 200px;
+	height: 180px;
+}
+
+.arriere{
+	background-image: url(../img/NB.jpg);
+}
+
+.plan{
+	background: url(../img/SF.jpg);
+}
+.sary1{
+width: 100px;
+height: 150px;
+display: inline-block;
+margin-left: 250px;
+margin-top: -340px;
+}
+.sary2{
+width: 100px;
+height: 150px;
+display: inline-block;
+margin-left: 250px;
+margin-top: -340px;
+}
+
+.sary3{
+	width: 100px;
+height: 150px;
+display: inline-block;
+margin-left: 300px;
+margin-top: -400px;
+}
+
+.sary4{
+	width: 100px;
+height: 150px;
+display: inline-block;
+margin-left: 350px;
+margin-top: -340px;
+}
+
+.sary5{
+	width: 100px;
+height: 150px;
+display: inline-block;
+margin-left: 400px;
+margin-top: -340px;
+}
+
+.sary6{
+	width: 100px;
+height: 150px;
+display: inline-block;
+margin-left: 450px;
+margin-top: -340px;
+}
+div li{
+	display: inline-block;
+  font-size: 20px;
+	margin: 50px;
+	padding: 0px;
+}
+
+.btn{
+	border: 2px solid blueviolet;
+	color: green
+}
+
+.ret{
+	border: 5px solid bisque;
+	color:green;
+	font-family: algerian;
+}
+
+.contactevo{
+	background-image: url(../img/DX.jpg)
+}
+h3{
+	text-align: center;
+}
+h3{
+	color: gray;
+}
+.george{
+	background: url(../img/DA.jpg)	
+}
+.font{
+background: url(../img/qq.jpg)
+}
+.sary{
+	display: inline-flex;
+	margin-left: 400px;
+	margin-top: 200px;
+}
+.poi{
+	margin-left: 180px;
+ }
+ #tab1{
+ 	margin-left: 430px;
+ 	margin-top: 180px;
+ }
+ .sare{
+ 	margin-left: 85px;
+ 	box-shadow: 0 22px 5px; 
+ }
+ .sare hover{
+ 	animation: flipInY;
+ }
+ #calculator{
+	width: 450px;
+	background-color:wheat;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid blue;
+	border-radius: 25px;
+	padding: 40px 15px 30px 40px;
+}
+.sr{
+ 	margin-left: 85px;
+ 
+ }
+
+ .button{
+	border: 2px solid blue;
+	border-radius: 5px;
+	width: 100px;
+	height: 60px;
+	font-size: 20px;
+	font-family: Wide Latin;
+	color: black;
+	background-color:lightsteelblue;
+}
+h1{
+	color: white;
+}
